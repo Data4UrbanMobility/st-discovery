@@ -1,5 +1,5 @@
 # ST-Discovery
-
+Data-Driven Discovery of Structural Dependencies in Urban Road Networks
 ## Contents
 
 This repository contains the implementation of the ST-Discovery approach for identifying structural dependencies within road networks.
